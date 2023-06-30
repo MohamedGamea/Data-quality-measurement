@@ -29,8 +29,8 @@ Tableau is an industry-leading data visualization and business intelligence tool
 Conclusion:
 Improving data quality is essential for organizations aiming to make informed decisions based on accurate insights. By employing sound data governance practices and leveraging tools like Tableau, businesses can effectively analyze data, uncover valuable insights, and drive positive outcomes. Embracing data quality initiatives and harnessing the power of Tableau can pave the way for data-driven success in today's competitive landscape.
 
-visit my page on tableau from here: (https://public.tableau.com/app/profile/mohamed.gamea)
-visit my page on Twitter from here: (https://twitter.com/mboojja3)
-visit my page on Linkedin from here: (https://www.linkedin.com/in/mohamed-gamea/)
-visit my page on Facebook from here: (https://www.facebook.com/Allh.tany)
-visit my page on instagram from here: (https://www.instagram.com/m.booja/)
+- visit my page on tableau from here: (https://public.tableau.com/app/profile/mohamed.gamea).
+- visit my page on Twitter from here: (https://twitter.com/mboojja3).
+- visit my page on Linkedin from here: (https://www.linkedin.com/in/mohamed-gamea/).
+- visit my page on Facebook from here: (https://www.facebook.com/Allh.tany).
+- visit my page on instagram from here: (https://www.instagram.com/m.booja/).
