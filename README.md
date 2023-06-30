@@ -1,4 +1,4 @@
-Hello evre one
+Hello Everyone
 
 - In this project, data has been collected from an Excel file
 To the data cleaning and relationship building area in the dashboard.
